@@ -8,7 +8,7 @@ import DesktopNav from 'components/DesktopNav'
 import Footer from 'components/Footer'
 import CookieBanner from 'components/CookieBanner'
 import MobileHeader from 'components/MobileHeader'
-import Invaders from 'components/Invaders'
+import Invaders from 'components/InvadersHooks'
 
 const GlobalStyles = createGlobalStyle`
   ${reset}
